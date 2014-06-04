@@ -1,0 +1,9 @@
+.common{
+	background: green;	
+	position:absolute;
+	left:300px;
+	top:50px;
+	height: 500 px;
+	width: 400px;
+	text-align: center 
+}
